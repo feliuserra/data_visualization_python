@@ -2,7 +2,7 @@
 
 This repository intends to instruct people on data visualization tools using Python. 
 
-** Data
+## Data
 
 In this course we will use the following structure to store the data. The main folder where all the data will be stored is in `data/`. This folder will contain all the other subfolders. Within the folder `data/`, there will be other four folders:
 
